@@ -10,4 +10,4 @@
 
 **Дети**: двое
 
-![Фото](https://drive.google.com/file/d/1Jq_cjOhW_073kpohAkMdqedSjm6g_wil/view?usp=sharing)
+![Фото](https://github.com/malkovdv/firstpage/blob/main/image.jpg?raw=true)
